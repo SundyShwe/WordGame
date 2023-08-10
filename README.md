@@ -8,4 +8,7 @@ utalized : Angular 16, RxJS and Bootstrap in TypeScript
 3. Can shuffle to get a new set of random letters
 4. Guess a word by using the given set of letters and check if your word is a correct word
 5. A scoreboard displaying how many rights and wrongs you got
-6. View the history of your game in History 
+6. View the history of your game in History
+
+## Live Demo
+[Firebase](https://word-game-f4fd4.web.app/)
